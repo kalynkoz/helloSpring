@@ -5,4 +5,8 @@ public class Greeter{
     {
         return "Hello World";
     }
+
+    public String sayGoodbye() {
+        return "Have a good day!";
+    }
 }
